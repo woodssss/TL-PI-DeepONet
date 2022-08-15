@@ -20,9 +20,6 @@ f(t,0)=f(t,1)=0.
 ```
 python sample_nrd_1d_evo.py k d l
 ````
-```
-python sample_nrd_1d_nevo.py k d l
-````
 k,d are the parameters within nrd equation and l is the parameter within covariance kernel. This code generates 10000 training functions and 30 test functions. One may run it on colab as well
 ```
 %run sample_nrd_1d.py k d l
