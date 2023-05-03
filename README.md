@@ -1,5 +1,5 @@
 # TL-PI-DeepONet
-In this project, we improved the physics-informed DeepONets via the one shot transfer learning. The numerical examples include: 1d nonlinear reaction diffusion equation; 1d,2d allen cahn equation; 1d,2d cahn-hilliard equation; navier stokes equation; and 1d,2d linear transfer equation.
+This project provides codes for paper [Transfer Learning Enhanced DeepONet for Long-Time Prediction of Evolution Equations. (The 37th AAAI conference on Artificial Intelligence)](https://arxiv.org/abs/2212.04663). In this project, we improved the physics-informed DeepONets via the one shot transfer learning. The numerical examples include: 1d nonlinear reaction diffusion equation; 1d,2d allen cahn equation; 1d,2d cahn-hilliard equation; navier stokes equation; and 1d,2d linear transfer equation.
 
 # Requirements
 Find requirements in requirements.txt. All the codes are ready to run (07/29/2022) on google colab without need of specifying packages version, except for the the ns_sample.py, which requires a older version of torch==1.6.0.
