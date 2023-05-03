@@ -1,0 +1,75 @@
+absl-py @ file:///C:/ci/absl-py_1615411229697/work
+aiohttp @ file:///C:/ci/aiohttp_1614361024229/work
+astor==0.8.1
+astunparse==1.6.3
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1611600262290/work
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1613247279197/work
+chardet @ file:///C:/ci/chardet_1605303225733/work
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+cloudpickle==1.1.1
+coverage @ file:///C:/ci/coverage_1614615074147/work
+cryptography @ file:///C:/ci/cryptography_1616769344312/work
+cycler==0.10.0
+Cython @ file:///C:/ci/cython_1618435363327/work
+decorator @ file:///tmp/build/80754af9/decorator_1617916966915/work
+gast @ file:///tmp/build/80754af9/gast_1597433534803/work
+google-auth @ file:///tmp/build/80754af9/google-auth_1618522294691/work
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta==0.2.0
+grpcio @ file:///C:/ci/grpcio_1614884412260/work
+h5py==2.10.0
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+idna-ssl @ file:///C:/ci/idna_ssl_1611752541235/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1617877484576/work
+Keras @ file:///tmp/build/80754af9/keras_split_1593112142734/work
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver @ file:///C:/ci/kiwisolver_1612282606037/work
+Markdown @ file:///C:/ci/markdown_1614364121613/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multidict @ file:///C:/ci/multidict_1607362065515/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+oauthlib==3.1.0
+olefile==0.46
+opt-einsum==3.1.0
+Pillow @ file:///C:/ci/pillow_1617386341487/work
+protobuf==3.14.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyJWT==1.7.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyreadline==2.1
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+PyYAML==5.4.1
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scipy @ file:///C:/ci/scipy_1616703433439/work
+sip==4.19.13
+six @ file:///home/linux1/recipes/ci/six_1610970791821/work
+tensorboard @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_te/tensorboard_1614593728657/work/tmp_pip_dir
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.3.0
+tensorflow-estimator @ file:///tmp/build/80754af9/tensorflow-estimator_1599136169057/work/whl_temp/tensorflow_estimator-2.3.0-py2.py3-none-any.whl
+tensorflow-probability==0.7.0
+termcolor==1.1.0
+tornado @ file:///C:/ci/tornado_1606942392901/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1611751222202/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
+Werkzeug==0.16.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+wrapt==1.12.1
+yarl @ file:///C:/ci/yarl_1606940076464/work
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
